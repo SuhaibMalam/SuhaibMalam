@@ -1,18 +1,13 @@
 ## Hi there I'm Suhaib Malam 👋
 
-<!--
-**SuhaibMalam/SuhaibMalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-🌱 I’m currently learning **React, Node, Next.js, TailwindCSS, and MongoDB**
-- 👯 I’m looking to collaborate on Full Stack Projects, React Projects
+- 🌱 I’m currently learning **React, Node, Next.js, TailwindCSS, and MongoDB**
+- 👯 I’m looking to collaborate on Full Stack Projects, React Projects, Node Projects
 - 🤔 I’m looking for help with React, Node, Next
 - 💬 Ask me about: Web Development or my latest projects
 - 📫 How to reach me: https://www.linkedin.com/in/suhaib-malam-75b48026a/
 - 😄 Pronouns: He/Him
--->
+
+  
 ### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
