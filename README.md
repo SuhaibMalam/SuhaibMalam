@@ -1,5 +1,7 @@
 ## Hi there I'm Suhaib Malam 👋
 
+I'm a Full-stack Developer in the making! 🚀
+
 - 🌱 I’m currently learning **React, Node, Next.js, TailwindCSS, and MongoDB**
 - 👯 I’m looking to collaborate on Full Stack Projects, React Projects, Node Projects
 - 🤔 I’m looking for help with React, Node, Next
