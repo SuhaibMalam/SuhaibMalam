@@ -51,14 +51,7 @@ I'm a Full Stack Developer from Surat, India, with a Master's in Web & Mobile Te
 ---
 
 ## 🚀 Featured Projects
-
+ 
 ### 🍽️ Recipe & Nutrition Tracker *(in progress)*
 A full stack app to search recipes and track daily nutrition using the Edamam API.  
-**Stack:** Next.js · PostgreSQL · Prisma · NextAuth.js · Tailwind CSS  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhaibMalam&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaibMalam&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</p>
+**Stack:** Next.js · PostgreSQL · Prisma · NextAuth.js · Tailwind CSS 
